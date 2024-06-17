@@ -1,0 +1,43 @@
+.div{
+    border-radius: 5px;
+background-color:rgb(184, 237, 237);
+width:30%;
+padding: 20px;
+box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+margin-left: 35%;
+margin-top:10%;
+ }
+ /* body{background: rgba(0,0,0,0.7)url('back.jpg');
+    background-repeat: no-repeat;
+  background-size: 100% 100%;
+background-position: center;
+height:490px;
+position:relative;
+background-blend-mode: darken;} */
+ .btn{
+    border-radius: 5px;
+
+text-decoration: none;
+color: black;
+border:none;
+background-color: rgb(91, 200, 200);
+/* font-size: 17px; */
+padding: 12px;
+margin:10px;
+box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+font-weight: 110;
+ }
+.input{
+padding: 5px;
+border:none;
+border-radius: 5px;
+margin-left: 10px;
+margin-top: 10px;
+height:30px;
+width:200px;
+background-color: white;
+}
+/* .h{display:none} */
+/* .hh{display: block;} */
+/* p{color:red} */
+.h{color: red;}

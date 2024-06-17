@@ -1,0 +1,52 @@
+.no{
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+.back{
+    background-color: white;
+    width:70%;
+    margin-left: 170px;
+    border-radius:5px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-collapse: collapse;
+    border: 1px solid aqua;
+    padding: 20px;
+    margin-top: 20px;
+}
+.tr{
+    padding: 10px
+}
+.cell{
+    border: 1px solid rgb(144, 222, 245);
+    padding: 10px;
+    text-align: center;
+ }
+ .btn{
+    /* float:left; */
+    text-decoration: none;
+    border-radius: 5px;
+    /* width:18%; */
+    color:black;
+    border:none;
+    background-color: green;
+    font-size: 15px;
+    padding: 12px;
+    /* margin:10px; */
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);   
+  }
+  .dis{
+    background-color: orange;
+    border-radius: 5px;
+    /* width:10%; */
+    text-decoration: none;
+    color: black;
+    border: none;
+    /* background-color: rgb(212, 87, 87); */
+    font-size: 17px;
+    padding: 12px;
+    margin: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* margin-left: 80px; */
+  }
+  

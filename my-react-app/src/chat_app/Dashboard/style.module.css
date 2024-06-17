@@ -1,0 +1,41 @@
+.flex{
+    display: flex;
+}
+.div{
+    border:1px solid green;
+    border-radius: 10px;
+    width:30%;
+    padding: 2px;
+    margin: 20px;
+    min-height: 400px;
+    margin-top: 50px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);   
+    text-align: center;
+}
+.select{
+    /* float: right; */
+    position: fixed;
+    bottom: 25px;
+    right: 15px;
+}
+.s{
+    padding: 5px;
+    border-radius: 5px;
+    background-color:green ;
+
+}
+.o{
+    padding: 5px;
+    margin: 5px;
+}
+.li{
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 10px;
+}
+.red{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 50px;
+}
